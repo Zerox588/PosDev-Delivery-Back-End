@@ -9,6 +9,7 @@
   "author": "Gustavo Romero",
   "license": "MIT",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "express": "^4.17.3",
     "http": "^0.0.1-security",
